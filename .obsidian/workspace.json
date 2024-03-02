@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "19b5e725750f7d40",
+            "id": "05ac6f1b66c59e13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.測試.md",
+                "file": "02.文獻筆記/02.文獻筆記.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.測試.md",
+                "file": "02.文獻筆記/02.文獻筆記.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.測試.md",
+                "file": "02.文獻筆記/02.文獻筆記.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.測試.md"
+                "file": "02.文獻筆記/02.文獻筆記.md"
               }
             }
           }
@@ -138,6 +138,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "yet-another-obsidian-synchronizer:YAOS": false,
       "switcher:開啟快速切換": false,
       "graph:查看關聯圖": false,
       "canvas:建立新畫布": false,
@@ -146,9 +147,29 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "19b5e725750f7d40",
+  "active": "05ac6f1b66c59e13",
   "lastOpenFiles": [
-    "README.md",
-    "0.測試.md"
+    "未命名.canvas",
+    "X-主題索引/X-主題索引.md",
+    "2024-03-02.md",
+    "Z-樣板/Z-樣板.md",
+    "00.靈感筆記/_attachments",
+    "00.日誌/01.日誌.md",
+    "01.日誌/01.日誌.md",
+    "01.日誌",
+    "01.靈感筆記/00.靈感筆記.md",
+    "00.靈感筆記/00.靈感筆記.md",
+    "00.靈感筆記",
+    "Z-樣板",
+    "X-主題索引",
+    "07.自我學習/07.自我學習.md",
+    "07.自我學習",
+    "03.永久筆記/03.永久筆記.md",
+    "03.永久筆記",
+    "02.文獻筆記/02.文獻筆記.md",
+    "02.文獻筆記",
+    "00.日誌",
+    "01.靈感筆記",
+    "README.md"
   ]
 }

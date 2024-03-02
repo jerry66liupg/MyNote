@@ -1,1 +1,5 @@
-{}
+{
+  "attachmentFolderPath": "./attachments",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00.日誌"
+}
