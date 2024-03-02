@@ -1,4 +1,10 @@
 [
   "obsidian-tasks-plugin",
-  "yet-another-obsidian-synchronizer"
+  "yet-another-obsidian-synchronizer",
+  "text-snippets-obsidian",
+  "table-editor-obsidian",
+  "note-refactor-obsidian",
+  "url-into-selection",
+  "obsidian-style-settings",
+  "tag-wrangler"
 ]
