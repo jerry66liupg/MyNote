@@ -4,22 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "92f04445850a3541",
+        "id": "cde8f98a751b206a",
         "type": "tabs",
         "children": [
           {
-            "id": "05ac6f1b66c59e13",
+            "id": "cafd2100b13e4478",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.文獻筆記/02.文獻筆記.md",
+                "file": "00.靈感筆記/00.靈感筆記.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fbeca9b241a21080",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06.YT 分類/0602.美食.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "770046af9dee5bd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06.YT 分類/0601.露營.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "acb05f207c634f7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06.YT 分類/0602.美食.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab84cdd5bc1ce96a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06.YT 分類/0601.露營.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "552226a3a69c5b9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06.YT 分類/0692.自主學習-油畫.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -85,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.文獻筆記/02.文獻筆記.md",
+                "file": "06.YT 分類/0692.自主學習-油畫.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.文獻筆記/02.文獻筆記.md",
+                "file": "06.YT 分類/0692.自主學習-油畫.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.文獻筆記/02.文獻筆記.md"
+                "file": "06.YT 分類/0692.自主學習-油畫.md"
               }
             }
           }
@@ -144,21 +205,30 @@
       "canvas:建立新畫布": false,
       "daily-notes:開啟今天的每日筆記": false,
       "templates:插入模板": false,
-      "command-palette:開啟命令面板": false
+      "command-palette:開啟命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "05ac6f1b66c59e13",
+  "active": "552226a3a69c5b9c",
   "lastOpenFiles": [
+    "06.YT 分類/0691.自主學習-日語.md",
+    "06.YT 分類/0692.自主學習-油畫.md",
+    "06.YT 分類/0604.純音樂.md",
+    "06.YT 分類/0601.露營.md",
+    "06.YT 分類/0602.美食.md",
+    "06.YT 分類/0603.旅遊.md",
+    "00.靈感筆記/00.靈感筆記.md",
+    "06.YT 分類",
     "未命名.canvas",
-    "X-主題索引/X-主題索引.md",
+    "02.文獻筆記/02.文獻筆記.md",
     "2024-03-02.md",
+    "X-主題索引/X-主題索引.md",
     "Z-樣板/Z-樣板.md",
     "00.靈感筆記/_attachments",
     "00.日誌/01.日誌.md",
     "01.日誌/01.日誌.md",
     "01.日誌",
     "01.靈感筆記/00.靈感筆記.md",
-    "00.靈感筆記/00.靈感筆記.md",
     "00.靈感筆記",
     "Z-樣板",
     "X-主題索引",
@@ -166,10 +236,8 @@
     "07.自我學習",
     "03.永久筆記/03.永久筆記.md",
     "03.永久筆記",
-    "02.文獻筆記/02.文獻筆記.md",
     "02.文獻筆記",
     "00.日誌",
-    "01.靈感筆記",
     "README.md"
   ]
 }
